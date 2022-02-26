@@ -1,0 +1,108 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\FPGAjichuang\WaveProducer\simulation\modelsim
+T_opt
+V_OXKcUV319;[_ilgn7D7k1
+04 10 4 work Test_simtb fast 0
+=1-a4bb6d06b233-620b96a1-2d0-2e1c
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.1c;51
+vad_drive
+ImmVZ[]4T8IhV4LRdPcD>D1
+VPNm9Aanc9^1kghL5o8`_b1
+Z1 dD:\FPGAjichuang\WaveProducer\simulation\modelsim
+w1644911572
+8D:/FPGAjichuang/WaveProducer/ad_drive.v
+FD:/FPGAjichuang/WaveProducer/ad_drive.v
+L0 1
+Z2 OL;L;10.1c;51
+r1
+31
+Z3 o-vlog01compat -work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z4 !s92 -vlog01compat -work work +incdir+D:/FPGAjichuang/WaveProducer -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 ;@Kenz>:UKKbeBaP1d78Y0
+!s85 0
+!s108 1644926623.201000
+!s107 D:/FPGAjichuang/WaveProducer/ad_drive.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGAjichuang/WaveProducer|D:/FPGAjichuang/WaveProducer/ad_drive.v|
+vda_drive
+INe^_FnMQEZR`08Q6dkk7H3
+V?FmA`Wde?iB0Ci3Jl7dOe0
+R1
+w1644908225
+8D:/FPGAjichuang/WaveProducer/da_drive.v
+FD:/FPGAjichuang/WaveProducer/da_drive.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 3z2X8;W8[9HXS5Yai_kO_3
+!s85 0
+!s108 1644926622.801000
+!s107 D:/FPGAjichuang/WaveProducer/da_drive.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGAjichuang/WaveProducer|D:/FPGAjichuang/WaveProducer/da_drive.v|
+vrom_8bit
+I1QS4Gk0]z5EWh7U:O<1C52
+V2zl;c=2FVAd;hh[Ee2W<^2
+R1
+w1644683854
+8D:/FPGAjichuang/WaveProducer/rom_8bit.v
+FD:/FPGAjichuang/WaveProducer/rom_8bit.v
+L0 39
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 ?1e;MOAX^`0c;_b3DgF2A2
+!s85 0
+!s108 1644926622.372000
+!s107 D:/FPGAjichuang/WaveProducer/rom_8bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGAjichuang/WaveProducer|D:/FPGAjichuang/WaveProducer/rom_8bit.v|
+vTest_simtb
+I7=n?Q4][ka_iNOn7:]:BL2
+VXG3]JI[4_[fLhC<JM5Oc31
+R1
+w1644681460
+8D:/FPGAjichuang/WaveProducer/Test_simtb.v
+FD:/FPGAjichuang/WaveProducer/Test_simtb.v
+L0 2
+R2
+r1
+31
+R3
+R4
+n@test_simtb
+!i10b 1
+!s100 a7iVg2zn;hm;2KSbIX:Lc2
+!s85 0
+!s108 1644926623.591000
+!s107 D:/FPGAjichuang/WaveProducer/Test_simtb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGAjichuang/WaveProducer|D:/FPGAjichuang/WaveProducer/Test_simtb.v|
+vwave_produce_display
+Ie7IQ17jSz[jRmjb6QDYFY3
+V>F_6jdiEUKQPBndg;IEVS2
+R1
+w1644911154
+8D:/FPGAjichuang/WaveProducer/wave_produce_display.v
+FD:/FPGAjichuang/WaveProducer/wave_produce_display.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 cQI^IK_^GbGfnHWJWLh;c0
+!s85 0
+!s108 1644926622.002000
+!s107 D:/FPGAjichuang/WaveProducer/wave_produce_display.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGAjichuang/WaveProducer|D:/FPGAjichuang/WaveProducer/wave_produce_display.v|

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat Feb 19 16:37:34 2022
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : wave_produce_display
+Top-level Entity Name : wave_produce_display
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 1,466 / 10,320 ( 14 % )
+    Total combinational functions : 1,103 / 10,320 ( 11 % )
+    Dedicated logic registers : 935 / 10,320 ( 9 % )
+Total registers : 951
+Total pins : 29 / 180 ( 16 % )
+Total virtual pins : 0
+Total memory bits : 83,968 / 423,936 ( 20 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )
